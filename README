@@ -1,8 +1,8 @@
 AWS credentials file 
 ------
 [odisee]
-aws_access_key_id=AKIAYJY32O2VDSAGEKX2
-aws_secret_access_key=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
+aws_access_key_id=AKIAYJY32O2VGFNPWFIF
+aws_secret_access_key=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
 region=eu-west-1
 
 
