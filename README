@@ -1,10 +1,11 @@
 AWS credentials file 
 ------
 [odisee]
-aws_access_key_id=AKIAYJY32O2VGFNPWFIF
-aws_secret_access_key=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
+aws_access_key_id=AKIAY*********FIF
+aws_secret_access_key=*************************************
 region=eu-west-1
 
+CREDENTIALS SHARED VIA WHATSAPP WOUTER AND JASPER.
 
 AWS CLI commands
 ----
